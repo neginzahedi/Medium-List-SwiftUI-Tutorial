@@ -13,5 +13,7 @@ struct Book: Identifiable {
     let name: String
     let author: String
     let publish_date: String
+    let pages: String
+    let genre: String
     let summary: String
 }
