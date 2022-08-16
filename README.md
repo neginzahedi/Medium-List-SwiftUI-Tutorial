@@ -1,4 +1,4 @@
-# SwiftUI-List-Tutorial
+# List - SwiftUI Tutorial
 
 A simple iOS app written in SwiftUI to practice List and NavigationView.
 
